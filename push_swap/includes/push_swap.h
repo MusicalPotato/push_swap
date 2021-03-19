@@ -11,6 +11,7 @@ void	ft_lstclear_data(t_data **data);
 t_data	*ft_setup(int argc, char **argv);
 
 void	algo_manager(t_data *data);
+int		checker(t_data *data);
 
 int		parse_argv(char **argv);
 int		parse_dup(t_data *data);

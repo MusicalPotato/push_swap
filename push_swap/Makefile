@@ -8,6 +8,7 @@ LIBFT		=	libft/libft.a
 SRCS_NAME	=	main/main.c \
 				main/ft_setup.c \
 				algo/manager.c \
+				algo/checker.c \
 				operations/ft_pa.c \
 				operations/ft_pb.c \
 				operations/ft_ra.c \
